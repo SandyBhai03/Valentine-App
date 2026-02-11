@@ -32,7 +32,7 @@ function App() {
       <div className="min-h-screen flex flex-col items-center justify-center bg-pink-100 text-center p-4">
         <h1 className="text-4xl font-bold mb-6">YAY!! 🎉💖</h1>
         <video
-          src="/public/Happy.mp4"
+          src="/assets/Happy.mp4"
           autoPlay
           controls
           className="rounded-xl shadow-lg w-full max-w-md"
